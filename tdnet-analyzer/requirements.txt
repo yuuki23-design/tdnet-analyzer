@@ -1,0 +1,8 @@
+requests
+beautifulsoup4
+pdfplumber
+transformers
+streamlit
+pandas
+matplotlib
+torch
